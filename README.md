@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="https://github.com/Sadjop/Sadjop/blob/main/icons/Hi.gif" width="28px"/>, I'm Sadjop</h1>
+<h1 align="center">Hi, I'm Sadjop</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadjop&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Backend Developer
