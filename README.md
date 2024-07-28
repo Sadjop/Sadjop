@@ -28,6 +28,23 @@ Here are some ideas to get you started:
 
 I am a passionate Backend Developer with a strong foundation in server-side technologies. A versatile developer specializing in **PHP, Symfony, and Node.js** with a passion for continuous learning. My expertise lies in developing robust PHP applications, integrating complex systems, and enhancing overall backend efficiency. I thrive on solving challenging problems and creating innovative solutions to improve server-side operations and user interactions.
 
+<details>
+ <summary>
+    <h2> 
+      <img align="center" src="https://github.com/sadjop/Sadjop/blob/main/icons/about.png" width="37" /> 
+    Resume
+    </h2>
+</summary>
 
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/Sadjop/Sadjop/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-MIT-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-IDK-EFEEE9?style=for-the-badge"></span>
+ </details>
 
-
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  - **[Your Role] ** at [Company] | [Duration]
+    - [Work Description]
+ </details>
+</details>
